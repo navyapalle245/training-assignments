@@ -12,7 +12,8 @@ switch(day_number){
         day='Wednesday'
         break;
     case 4:
-        day='Thursday'  
+        day='Thursday' 
+        break; 
     case 5:
         day='Friday'
         break;

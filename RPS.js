@@ -12,9 +12,9 @@ if(Raju==='Rock' && Ravi==="Scissors"){
 }else if(Raju==='Rock' && Ravi==="Paper"){
     result = 'Ravi'
 }else if(Raju==='Scissors' && Ravi==="Paper"){
-    result = 'Ravi'
-}else if(Raju==='Paper' && Raju==="Scissors"){
     result = 'Raju'
+}else if(Raju==='Paper' && Ravi==="Scissors"){
+    result = 'Ravi'
 }else{
     result = 'Nobody'
 }
